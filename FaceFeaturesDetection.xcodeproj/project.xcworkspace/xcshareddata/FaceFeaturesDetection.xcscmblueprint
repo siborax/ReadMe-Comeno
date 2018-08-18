@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++8EE3B3E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++11359C8" : 9223372036854775807,
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++8EE3B3E" : 9223372036854775807,
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++9BF8659" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A0FB5B6-4E45-48F0-A5B2-550149C3B09E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++11359C8" : "..",
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++8EE3B3E" : "FaceFeaturesDetection\/",
+    "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++9BF8659" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FaceFeaturesDetection",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FaceFeaturesDetection.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Sebora\/Desktop\/FaceFeaturesDetection",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++11359C8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Sebora\/Desktop\/FaceFeaturesDetection",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++8EE3B3E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/Sebora\/Desktop\/FaceFeaturesDetection",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DF8FEB65D359A2AD04E0CC9A98A03315D694B3E+++9BF8659"
+    }
+  ]
+}

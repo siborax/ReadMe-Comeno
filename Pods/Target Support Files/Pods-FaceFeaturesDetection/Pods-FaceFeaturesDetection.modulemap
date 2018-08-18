@@ -1,0 +1,6 @@
+framework module Pods_FaceFeaturesDetection {
+  umbrella header "Pods-FaceFeaturesDetection-umbrella.h"
+
+  export *
+  module * { export * }
+}
